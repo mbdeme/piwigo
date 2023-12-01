@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/Piwigo/Piwigo-User-Collections 
+Revision: 1bac94146282a4307a9ede4fe3203d0fa772c577 (Mon May 15 14:25:58 2023 +0200)

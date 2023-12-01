@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/Piwigo/AStat 
+Revision: 23116c8d829cd8f3122c16e3bd9c6973b5b376a1 (Wed Oct 12 12:37:02 2022 +0200)

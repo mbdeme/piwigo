@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/Piwigo/Piwigo-SmartAlbums 
+Revision: 097bbbbfcca72c125d643b8dcc6f53f83048974c (Mon Nov 1 16:36:19 2021 +0100)

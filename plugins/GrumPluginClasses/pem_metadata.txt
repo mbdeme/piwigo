@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/Piwigo/GrumPluginClasses 
+Revision: ba3726acc8da8eb2067774d93ededde3ef4cd86a (Fri Aug 19 15:38:44 2022 +0200)
